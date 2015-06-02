@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: zblank
 github_username:  zblank
+background-image: url ("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fwww.kennesaw.edu%2Felearning%2Ftutorials%2FSeaMonkey_KSU%2FSeaMonkey_KSU.html&ei=OiptVbGWCPb_sASb34LgCw&bvm=bv.94455598,d.cWc&psig=AFQjCNHRa0RcMHzLrrIufL-tIA1MlbpVlw&ust=1433303989108816"); 
 
 # Build settings
 markdown: kramdown
